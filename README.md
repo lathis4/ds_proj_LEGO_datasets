@@ -1,3 +1,4 @@
+![](/assets/bricks.jpg)
 # ds_proj_LEGO_datasets
 ## Project : Analysing LEGO dataset using pandas  
 - Preliminary data exploration on differents LEGO datasets - colors, sets, themes
